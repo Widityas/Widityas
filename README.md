@@ -4,7 +4,6 @@
 
 # 👋 Hi, I’m Widityas Nugraha Kusuma  
 
-<<<<<<< HEAD
 🌍 Geophysicist | 📊 Data Analytics & Technology Enthusiast
 =======
 🌍 Geophysicist | 📊 Data Analytics & Tech Enthusiast 
@@ -21,7 +20,8 @@
 ---
 
 ### 📊 GitHub Stats
-[GitHub Stats](https://github-readme-stats.vercel.app/api?username=Widityas&show_icons=true&theme=default)
+[GitHub Stats]
+(https://github-readme-stats.vercel.app/api?username=Widityas&show_icons=true&theme=default)
 
 ---
 
@@ -29,7 +29,6 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=plastic&logo=python&logoColor=white)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=plastic&logo=microsoft-excel&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=plastic&logo=github&logoColor=white)
-
 
 ---
 
