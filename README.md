@@ -1,5 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:00416A,100:00B4DB&height=200&section=header&text=Widityas%20Nugraha%20Kusuma&fontSize=40&fontColor=ffffff)
-
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:00416A,100:00B4DB&height=200)
 
 # 👋 Hi, I’m Widityas Nugraha Kusuma  
 
