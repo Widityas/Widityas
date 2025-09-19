@@ -8,7 +8,6 @@
 
 ### 🚀 About Me
 - 🎓 Background in **Geophysics**, with strong interest in Earth sciences.  
-- 🛠 Currently learning **Python, Excel, and data analytics tools** to enhance geophysical data interpretation and analytic skill. 
 - 📈 Passionate about applying **data science & computational** to geoscience problems.  
 - 📚 Lifelong learner who dedicates **1 hour a day** to sharpening technical skills.  
 
@@ -19,7 +18,7 @@
 
 ---
 
-## 📖 Currently Learning
+## 📖 Currently Learning 🛠 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=plastic&logo=python&logoColor=white)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=plastic&logo=microsoft-excel&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=plastic&logo=github&logoColor=white)
