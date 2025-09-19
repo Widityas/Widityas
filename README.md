@@ -33,12 +33,7 @@
 ---
 
 ### 📫 Let’s Connect!
-<<<<<<< HEAD
-- 💼 [LinkedIn](www.linkedin.com/in/widityas-nugraha-kusuma)
-=======
 - 💼 [LinkedIn] www.linkedin.com/in/widityas-nugraha-kusuma 
-
->>>>>>> ef047eedd4d0e58627c047b21fc9ae0bcdc22e76
 - 📧 Email: widityasnugrahakusuma@gmail.com
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=0:00416A,100:00B4DB&height=100&section=footer)
