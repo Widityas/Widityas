@@ -1,36 +1,35 @@
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:00416A,100:00B4DB&height=200&section=header&text=Widityas%20Nugraha%20Kusuma&fontSize=40&fontColor=ffffff)
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto&size=24&duration=3000&pause=1000&color=0A66C2&center=true&vCenter=true&width=600&lines=🌍+Geophysicist;📊+Data+Analytics+%26+Tech+Enthusiast;🚀+Bridging+Earth+Science+%26+Data+Science)](https://git.io/typing-svg)
+
 # 👋 Hi, I’m Widityas Nugraha Kusuma  
 
-🌍 Geophysicist | 📊 Aspiring Data Scientist | ⚡ Tech & Analytics Enthusiast  
+🌍 Geophysicist | 📊 Data Analytics & Technology Enthusiast
 
 ---
 
 ### 🚀 About Me
-- 🎓 Background in **Geophysics**, with strong interest in subsurface exploration and Earth sciences.  
-- 🛠 Currently learning **Python, Excel, and data analytics tools** to enhance geophysical data interpretation.  
-- 📈 Passionate about applying **data science & machine learning** to geoscience problems.  
+- 🎓 Background in **Geophysics**, with strong interest in Earth sciences.  
+- 🛠 Currently learning **Python, Excel, and data analytics tools** to enhance geophysical data interpretation and analytic skill. 
+- 📈 Passionate about applying **data science & computational** to geoscience problems.  
 - 📚 Lifelong learner who dedicates **1 hour a day** to sharpening technical skills.  
 
 ---
 
-### 🌱 Current Focus
-- Strengthening **Mathematical Physics & Computational Methods**  
-- Practicing **Data Visualization & Statistical Analysis**  
-- Building portfolio projects combining **Geophysics + Data Science**  
-
----
-
 ### 📊 GitHub Stats
-![Your GitHub stats]![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Widityas&show_icons=true&theme=default)
+[GitHub Stats](https://github-readme-stats.vercel.app/api?username=Widityas&show_icons=true&theme=default)
 
 ---
 
-### ✨ Fun Facts
-- 🏞 Love connecting **Earth Science + Technology**  
-- 🎶 Often learn while listening to instrumental music  
-- ☕ Coffee + reading = perfect combo
+## 📖 Currently Learning
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ---
 
 ### 📫 Let’s Connect!
-- 💼 [LinkedIn](www.linkedin.com/in/widityas-nugraha-kusuma) 
+- 💼 [LinkedIn](www.linkedin.com/in/widityas-nugraha-kusuma)
 - 📧 Email: widityasnugrahakusuma@gmail.com
+
+![footer](https://capsule-render.vercel.app/api?type=waving&color=0:00416A,100:00B4DB&height=100&section=footer)
