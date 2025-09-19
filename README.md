@@ -1,13 +1,9 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:00416A,100:00B4DB&height=200&section=header&text=Widityas%20Nugraha%20Kusuma&fontSize=40&fontColor=ffffff)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto&size=24&duration=3000&pause=1000&color=0A66C2&center=true&vCenter=true&width=600&lines=🌍+Geophysicist;📊+Data+Analytics+%26+Tech+Enthusiast;🚀+Bridging+Earth+Science+%26+Data+Science)](https://git.io/typing-svg)
 
 # 👋 Hi, I’m Widityas Nugraha Kusuma  
 
 🌍 Geophysicist | 📊 Data Analytics & Technology Enthusiast
-=======
-🌍 Geophysicist | 📊 Data Analytics & Tech Enthusiast 
->>>>>>> ef047eedd4d0e58627c047b21fc9ae0bcdc22e76
 
 ---
 
