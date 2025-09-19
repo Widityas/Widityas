@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:00416A,100:00B4DB&height=200)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:00416A,100:00B4DB&height=200s)
 
 # 👋 Hi, I’m Widityas Nugraha Kusuma  
 
@@ -15,8 +15,7 @@
 ---
 
 ### 📊 GitHub Stats
-[GitHub Stats]
-(https://github-readme-stats.vercel.app/api?username=Widityas&show_icons=true&theme=default)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Widityas&show_icons=true&theme=default)
 
 ---
 
