@@ -32,5 +32,6 @@
 ---
 
 ### 📫 Let’s Connect!
-- 💼 [LinkedIn](www.linkedin.com/in/widityas-nugraha-kusuma) 
+- 💼 [LinkedIn] www.linkedin.com/in/widityas-nugraha-kusuma 
+
 - 📧 Email: widityasnugrahakusuma@gmail.com
