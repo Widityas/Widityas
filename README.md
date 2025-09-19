@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Widityas Nugraha Kusuma  
 
-🌍 Geophysicist | 📊 Aspiring Data Scientist | ⚡ Tech & Analytics Enthusiast  
+🌍 Geophysicist | 📊 Data Analytics & Tech Enthusiast 
 
 ---
 
