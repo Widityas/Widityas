@@ -9,7 +9,8 @@
 ### 🚀 About Me
 - 🎓 Background in **Geophysics**, with strong interest in Earth sciences.  
 - 📈 Passionate about applying **data science & computational** to geoscience problems.  
-- 📚 Lifelong learner who dedicates **1 hour a day** to sharpening technical skills.  
+- 📚 Lifelong learner who dedicates **1 hour a day** to sharpening technical skills.
+- 🍵 Coffe + 📔Book = Perfect Combo.
 
 ---
 
